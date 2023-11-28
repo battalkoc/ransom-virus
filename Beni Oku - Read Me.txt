@@ -1,9 +1,0 @@
-Bu kodlar tamamen eğitim amaçlı kodlanmıştır.
-Bu kodu bilgisayarınızda veya başka birinin bilgisayarında
-çalıştırırsanız veri kaybı yol açabilirsiniz.
-Lütfen dikkatli olun.
-
-These codes are coded purely for educational purposes.
-This code on your computer or someone else's computer
-you may cause data loss if you run it.
-Please be careful.
